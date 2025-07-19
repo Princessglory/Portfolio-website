@@ -19,7 +19,7 @@ Welcome to my professional portfolio website! This project showcases my skills, 
 
 1. Full Page
 
-![Screenshot](images/portfolio img.png)
+![screenshot](images/portfolio img.png)
 
 Responsive hero section with animated typing effect.
 
@@ -61,15 +61,20 @@ Version Control:
 Git & GitHub (Code Management)
 
 🚀 How to Run Locally
+
 Clone the repository:
 
 bash
+
 git clone https://github.com/Princessglory/Portfolio-website.git
-cd Portfolio-website 
+
+cd Portfolio-website
+
 Open index.html in your browser.
 (No server required—just double-click the file!)
 
 📂 Project Structure
+
 text
 portfolio/  
 ├── index.html           # Main HTML file  
@@ -82,38 +87,64 @@ portfolio/
 📜 Key Code Highlights
 
 1. Animated Typing Effect (JavaScript)
+
 javascript
 
 // Text animation for "I'm a [Web Developer]"
+
 .text-animation span::before {
+    
     content: "Web Developer";
+
     animation: words 20s infinite;
 }
+
 Cycles through different roles (Frontend Designer, UI/UX Designer, etc.).
 
 2. Responsive Timeline (CSS Grid & Flexbox)
+
 css
+
 .timeline-items::before {
+
     content: "";
+
     position: absolute;
+
     width: 5px;
+
     height: 100%;
+
     background-color: var(--main-color);
+
 }
+
 Displays education and experience in an interactive timeline.
 
 3. Mobile-Friendly Navigation (JavaScript)
+
 javascript
+
 menuIcon.onclick = () => {
+
     menuIcon.classList.toggle('bx-x');
+
     navbar.classList.toggle('active');
+
 }
+
 Hamburger menu for smaller screens.
 
+
 📬 Contact Me
+
 📧 Email: [mofogofoluwa744@gmail.com]
+
+
 🔗 LinkedIn: [www.linkedin.com/in/princess-glory-049270365]
+
 🐱 GitHub: [github.com/Princessglory]
+
 
 📄 License
 This project is open-source under the MIT License.
