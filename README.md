@@ -18,8 +18,7 @@ Welcome to my professional portfolio website! This project showcases my skills, 
 🖼️ Screenshots
 
 1. Full Page
-
-![screenshot](images/portfolio img.png)
+![Screenshot](images/portfolio img.png)
 
 Responsive hero section with animated typing effect.
 
