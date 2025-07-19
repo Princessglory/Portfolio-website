@@ -1,4 +1,5 @@
 Portfolio Website - Okogun Princess Glory
+
 📌 Overview
 Welcome to my professional portfolio website! This project showcases my skills, education, services, and contact information as a Frontend Web Developer. Built with HTML, CSS, and JavaScript, this responsive website highlights my journey, expertise, and projects in an interactive and visually appealing manner.
 
@@ -8,26 +9,26 @@ Welcome to my professional portfolio website! This project showcases my skills, 
 ✅ Modern UI/UX – Clean, intuitive, and visually engaging interface.
 ✅ Interactive Elements – Animated text, hover effects, and smooth scrolling.
 ✅ Timeline Section – Displays my education and professional journey.
-✅ Services Showcase – Highlights my skills in UI Design, Frontend & Backend Development, and Testing.
+✅ Services Showcase – Highlights my skills in UI Design, Frontend & Backend         Development, and Testing.
 ✅ Contact Form – Easy way for potential clients or employers to reach out.
 ✅ Dark/Light Mode – Stylish dark theme with vibrant accent colors.
 
 🖼️ Screenshots
 1. Full Page
-![Screenshot ](images\portfolio img.png)
+![Screenshot](images/portfolio img.png )
 
 Responsive hero section with animated typing effect.
 
 2. Education Timeline
-![Screenshot](images\Education.PNG)
+![Screenshot](images/Education.PNG)
 Interactive timeline showcasing my academic and professional journey.
 
 3. Services Section
-![Screenshot](images\services.PNG)
+![Screenshot](images/services.PNG)
 Hoverable service cards with descriptions.
 
 4. Contact Form
-![Screenshot](images\contact.PNG)
+![Screenshot](images/contact.PNG)
 Fully functional contact form for inquiries.
 
 
