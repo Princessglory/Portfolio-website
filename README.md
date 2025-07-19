@@ -1,10 +1,12 @@
 Portfolio Website - Okogun Princess Glory
 
 📌 Overview
+
 Welcome to my professional portfolio website! This project showcases my skills, education, services, and contact information as a Frontend Web Developer. Built with HTML, CSS, and JavaScript, this responsive website highlights my journey, expertise, and projects in an interactive and visually appealing manner.
 
 
 ✨ Features
+
 ✅ Fully Responsive Design – Works seamlessly on all devices (desktop, tablet, mobile).
 ✅ Modern UI/UX – Clean, intuitive, and visually engaging interface.
 ✅ Interactive Elements – Animated text, hover effects, and smooth scrolling.
@@ -14,26 +16,32 @@ Welcome to my professional portfolio website! This project showcases my skills, 
 ✅ Dark/Light Mode – Stylish dark theme with vibrant accent colors.
 
 🖼️ Screenshots
+
 1. Full Page
-![Screenshot](images/portfolio img.png )
+
+![Screenshot](images/portfolio img.png)
 
 Responsive hero section with animated typing effect.
 
 2. Education Timeline
+
 ![Screenshot](images/Education.PNG)
 Interactive timeline showcasing my academic and professional journey.
 
 3. Services Section
+
 ![Screenshot](images/services.PNG)
 Hoverable service cards with descriptions.
 
 4. Contact Form
+
 ![Screenshot](images/contact.PNG)
 Fully functional contact form for inquiries.
 
 
 
 🛠️ Technologies Used
+
 Frontend:
 
 HTML5 (Structure)
@@ -69,10 +77,13 @@ portfolio/
 ├── script.js            # Interactive elements & navigation  
 ├── images/              # Contains profile & project images  
 ├── screenshots/         # Project screenshots (home.png, education.png, etc.)  
-└── README.md            # Project documentation  
+└── README.md            # Project documentation 
+
 📜 Key Code Highlights
+
 1. Animated Typing Effect (JavaScript)
 javascript
+
 // Text animation for "I'm a [Web Developer]"
 .text-animation span::before {
     content: "Web Developer";
