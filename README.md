@@ -142,7 +142,7 @@ Hamburger menu for smaller screens.
 
 🔗 LinkedIn: [www.linkedin.com/in/princess-glory-049270365]
 
-🐱 GitHub: [github.com/Princessglory]
+🐱 GitHub: [https://github.com/Princessglory]
 
 
 📄 License
